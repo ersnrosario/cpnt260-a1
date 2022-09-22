@@ -12,4 +12,4 @@ Code I got elsewhere:
     margin-right:auto;
 }
 
-I used this to center the image, which I got from The WheelChair Guy
+I used this to center the image, which I got from The WheelChair Guy (https://www.youtube.com/watch?v=FvlVhYrTiQM&ab_channel=TheWheelchairGuy)
